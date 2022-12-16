@@ -1,0 +1,11 @@
+{
+  "editor.fontSize": 16,
+  "emmet.syntaxProfiles": {},
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "prettier.tabWidth": 4,
+  "editor.tabCompletion": "on",
+  "editor.wordWrap": "off",
+  "editor.tabSize": 2
+}
